@@ -25,4 +25,4 @@ Roles.init({
         modelName: "Roles"
     });
 
-Model.exports = Roles;
+    module.exports = Roles;

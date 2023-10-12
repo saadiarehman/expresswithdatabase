@@ -29,4 +29,4 @@ Departments.init({
         modelName: "Departments"
     });
 
-Model.exports = Departments;
+    module.exports = Departments;

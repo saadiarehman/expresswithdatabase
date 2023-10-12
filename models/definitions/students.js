@@ -42,4 +42,4 @@ Students.init({
         modelName: "Students"
     });
 
-Model.exports = Students;
+    module.exports = Students;

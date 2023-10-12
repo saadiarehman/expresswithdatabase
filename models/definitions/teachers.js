@@ -35,4 +35,4 @@ Teachers.init({
         modelName: "Teachers"
     });
 
-Model.exports = Teachers;
+    module.exports = Teachers;

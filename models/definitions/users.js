@@ -36,4 +36,4 @@ Users.init({
         paranoid: true,
         modelName: "Users"
     });
-Model.exports = Users;
+module.exports = Users;
